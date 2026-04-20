@@ -6,16 +6,12 @@ max-width: 300px;
 max-height: fit-content;
 border-radius: 8px;
 box-shadow: 04px 04px 04px gray;
-justify-content: space-between;
-align-items: ;
 }
 
 .flex-container {
 display: flex;
 flex-wrap: wrap;
 gap: 20px;
-align-items: center;
-justify-content: center;
 }
 
 #button{
