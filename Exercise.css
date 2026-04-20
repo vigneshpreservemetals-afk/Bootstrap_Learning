@@ -1,21 +1,27 @@
 .flex-item1 {
 padding: 12px;
-background-color: white);
+background-color:#f8f9fa;
 color: black;
 max-width: 300px;
 max-height: fit-content;
 border-radius: 8px;
-box-shadow: 10px 10px 12px gray;
+box-shadow: 04px 04px 04px gray;
+justify-content: space-between;
+align-items: ;
 }
 
 .flex-container {
 display: flex;
 flex-wrap: wrap;
 gap: 20px;
+align-items: center;
+justify-content: center;
 }
 
 #button{
     padding: 15px;
     width: 275px;
     border-radius: 4px;
+    background-color: #0B1F3A;
+    color: white;
 }
