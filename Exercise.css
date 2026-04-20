@@ -21,3 +21,10 @@ gap: 20px;
     background-color: #0B1F3A;
     color: white;
 }
+
+col-3 d-flex justify-content-center{
+li{
+     list-style-type: none;
+}
+   
+}
