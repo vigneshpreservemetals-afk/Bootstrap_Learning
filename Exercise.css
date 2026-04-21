@@ -38,3 +38,13 @@ ul>li{
     color: white;
 
 }
+
+#button1{
+    padding: 5px;
+    width: fit-content;
+    border-radius: 50%;
+    background-color: #0B1F3A;
+    color: white;
+    box-shadow: 4px 4px 12px #334B6E;
+}
+
