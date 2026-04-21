@@ -28,3 +28,13 @@ li{
 }
    
 }
+
+ul>li{
+    list-style-type: none;
+}
+
+.footer-custom{
+    background-color: #334B6E;
+    color: white;
+
+}
