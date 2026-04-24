@@ -48,3 +48,23 @@ ul>li{
     box-shadow: 4px 4px 12px #334B6E;
 }
 
+.nav-link {
+  position: relative;
+  display: inline-block;
+  color: #000;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background-color: #e51709;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
