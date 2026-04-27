@@ -122,7 +122,7 @@ ul>li{
     box-shadow:0 8px 25px rgba(0,0,0,.2);
 }
 
-.info-card small{
+.info-card small{ 
     color:#9cb8ff;
     display:block;
     margin-bottom:8px;
